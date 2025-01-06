@@ -1,0 +1,8 @@
+Origin: YourRepo
+Label: YourRepo
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: aarch64
+Components: main
+Date: Mon, 06 Jan 2025 11:27:52 +0000
